@@ -21,6 +21,8 @@
         displayError(thisForm, 'Terima kasih sudah mengirim jawaban kalian gaiss')
         return;
       }
+
+      
       
       // if( ! action ) {
       //   displayError(thisForm, 'The form action property is not set!')
